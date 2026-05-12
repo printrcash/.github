@@ -78,5 +78,5 @@ Printr is the home of the **$PRINTR** ecosystem. We provide a premium environmen
 ---
 
 <div align="center">
-  <sub>Built by the Printr Team. All rights reserved.</sub>
+  <sub>Built by the Printr.cash Team. All rights reserved.</sub>
 </div>
